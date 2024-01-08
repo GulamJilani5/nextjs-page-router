@@ -1,0 +1,23 @@
+### What I Learned
+file based router,
+static/named path & route,
+dynamic route & path [id] useRouter(),
+nested dynamic path & route, 
+Catching all routes[…slug], 
+Navigating to dynamic route <Link></Link>,
+Programmatically navigating router.push(),
+404.js - Page not found
+
+###Github
+echo "# nextjs-page-router" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/GulamJilani5/nextjs-page-router.git
+git push -u origin main
+…or push an existing repository from the command line
+git remote add origin https://github.com/GulamJilani5/nextjs-page-router.git
+git branch -M main
+git push -u origin main
+
